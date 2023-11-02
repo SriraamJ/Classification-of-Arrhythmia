@@ -1,0 +1,47 @@
+uploads\M2.png  -----   Normal   
+uploads\M7.png  -----   Normal   
+uploads\N10010.png  -----   Premature Atrial Contraction   
+uploads\N30.png ----- Premature Atrial Contraction   
+uploads\S22.png -----   Right Bundle Branch Block   
+uploads\S31.png -----   Right Bundle Branch Block   
+uploads\V44.png -----   Ventricular Fibrillation   
+uploads\294.jpg -----   Right Bundle Branch Block   
+uploads\F6.png  -----   Left Bundle Branch Block   
+uploads\M8.png  -----   Normal   
+uploads\N10045.png  -----   Premature Atrial Contraction
+uploads\Q33.png -----   Premature Ventricular Contraction
+uploads\Q56.png -----   Premature Ventricular Contraction
+uploads\S36.png -----   Right Bundle Branch Block
+uploads\M7.png  -----   Normal
+uploads\F30.png -----   Left Bundle Branch Block
+uploads\M7.png  -----   Normal
+uploads\N10045.png  -----   Premature Atrial Contraction
+uploads\Q33.png -----   Premature Ventricular Contraction
+uploads\S51.png -----   Right Bundle Branch Block
+uploads\V47.png -----   Ventricular Fibrillation
+uploads\image25.jpg -----   Unknown
+uploads\image27.jpg -----   Unknown
+uploads\S79.png -----   Right Bundle Branch Block
+uploads\V146.png    -----   Ventricular Fibrillation
+uploads\V47.png -----   Ventricular Fibrillation
+uploads\S55.png  -----   Right Bundle Branch Block
+uploads\M27.png  -----   Normal
+uploads\F158.png  -----   Left Bundle Branch Block
+uploads\image12.jpg  -----   Unknown
+uploads\Q130.png  -----   Premature Ventricular Contraction
+uploads\V37.png  -----   Ventricular Fibrillation
+uploads\M6.png  -----   Normal
+uploads\M22.png  -----   Normal
+uploads\M17.png  -----   Normal
+uploads\M38.png  -----   Normal
+uploads\Q248.png  -----   Premature Ventricular Contraction
+uploads\Q197.png  -----   Premature Ventricular Contraction
+uploads\Q268.png  -----   Premature Ventricular Contraction
+uploads\M7.png  -----   Normal
+uploads\M43.png  -----   Normal
+uploads\M10001.png  -----   Normal
+uploads\signature1.jpeg  -----   Normal
+uploads\M10002.png  -----   Normal
+uploads\F1.png  -----   Left Bundle Branch Block
+uploads\M2540.png  -----   Normal
+uploads\F1.png  -----   Left Bundle Branch Block
